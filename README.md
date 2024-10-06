@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 This is a dashboard for a business organization.
 this application was built with react.
+i need to add more interactive componets to this appliication so it can have more functions.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
